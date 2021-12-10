@@ -48,12 +48,17 @@
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/QuadDarv1ne/ToDo_List?label=Issues%20%7C%20%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B&logo=appveyor&style=social">
   </a>
   
+    <a>
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
-
-<img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
-
-<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    <a/>
     
+    <a> 
+    <img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
+    <a/>
+    
+    <a>  
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    <a/>
 </p>
 
 ![image](https://user-images.githubusercontent.com/51045274/145562950-f9ffbfc9-c1a0-4642-92cb-99c849c40670.png)
