@@ -69,7 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## 🎉 Building your first React Native app
+### 📋 Requirements
+
+React Native apps may target iOS 11.0 and Android 5.0 (API 21) or newer. You may use Windows, macOS, or Linux as your development operating system, though building and running iOS apps is limited to macOS. Tools like [Expo](https://expo.io) can be used to work around this.
+
+### 🎉 Building your first React Native app
 
 Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started). The recommended way to install React Native depends on your project. Here you can find short guides for the most common scenarios:
 
@@ -81,7 +85,7 @@ Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started)
 [new-app]: https://reactnative.dev/docs/getting-started
 [existing]: https://reactnative.dev/docs/integration-with-existing-apps
 
-## 📖 Documentation
+### 📖 Documentation
 
 The full documentation for React Native can be found on our [website][docs].
 
