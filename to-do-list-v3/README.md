@@ -59,8 +59,10 @@
   </p>
  </p>
 
-![image](https://user-images.githubusercontent.com/51045274/145562950-f9ffbfc9-c1a0-4642-92cb-99c849c40670.png)
+★![image](https://user-images.githubusercontent.com/51045274/145562950-f9ffbfc9-c1a0-4642-92cb-99c849c40670.png)✭
 
+    ℬсем привет.
+    
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
