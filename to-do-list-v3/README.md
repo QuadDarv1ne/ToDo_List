@@ -27,6 +27,8 @@
   </a>
 </p>
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/QuadDarv1ne/ToDo_List">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
