@@ -23,7 +23,10 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=reactnative">
-    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @reactnative" />
+    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @react-native" />
+  </a>
+  <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/">
+    <img src="https://img.shields.io/github/repo-size/QuadDarv1ne/ToDo_List" alt="GitHub repo size" />
   </a>
 </p>
 
