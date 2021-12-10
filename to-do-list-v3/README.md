@@ -55,10 +55,6 @@
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/"> 
     <img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
   </a>
-    
-  <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/">  
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-  </a>
       
   </p>
  </p>
