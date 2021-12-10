@@ -50,15 +50,15 @@
   
     <a>
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
-    <a/>
+    </a>
     
     <a> 
     <img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
-    <a/>
+    </a>
     
     <a>  
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
-    <a/>
+    </a>
       
   </p>
  </p>
