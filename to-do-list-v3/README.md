@@ -27,7 +27,7 @@
   </a>
 </p>
   
-<img src="https://img.shields.io/npm/dy/silentlad">
+<img src="https://img.shields.io/npm/dy/to-do-list-v3">
 
 <img src="https://img.shields.io/badge/made%20by-silentlad-blue.svg" >
 
