@@ -16,6 +16,10 @@
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?color=blue&label=Subscribers%20%7C%20%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&style=social">
     <a/>
     
+  <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/"> 
+    <img alt="npms.io (final)" src="https://img.shields.io/npms-io/final-score/to-do-list?logo=React&logoColor=blueviolet&style=social">
+  <a/>
+    
   <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
   </a>
