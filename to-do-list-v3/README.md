@@ -61,7 +61,7 @@
 
 ★![image](https://user-images.githubusercontent.com/51045274/145562950-f9ffbfc9-c1a0-4642-92cb-99c849c40670.png)✭
 
-    ℬсем привет.
+    ℬсем привет / 🅆🄴🄻🄲🄾🄼∑
     
 # Getting Started with Create React App
 
@@ -150,7 +150,7 @@ Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started)
 [new-app]: https://reactnative.dev/docs/getting-started
 [existing]: https://reactnative.dev/docs/integration-with-existing-apps
 
-### 📖 Documentation
+### 📖 Documentation ℳ
 
 The full documentation for React Native can be found on our [website][docs].
 
@@ -171,3 +171,5 @@ The source for the React Native documentation and website is hosted on a separat
 Hello Dude, thx you for watch my project, do retry up 🡹
     
 I will be grateful if you can throw a pretty penny on the further development of the project: https://donate.stream/quadd4rv1n7
+    
+ⓂⒶⓍⒾⓂ ⒹⓊⓅⓁⒺⓎ 2022
