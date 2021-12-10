@@ -163,3 +163,8 @@ The source for the React Native documentation and website is hosted on a separat
 ### Social Media URL
 
 <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FQuadDarv1ne%2FToDo_List%2Fedit%2Fmain%2Fto-do-list-v3%2F"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmaksimdupley"></a>
+    
+### Help to Project : 📖
+    Hello Dude, thx you for watch my project, do retry up #D22128
+    
+I will be grateful if you can throw a pretty penny on the further development of the project: https://donate.stream/quadd4rv1n7
