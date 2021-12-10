@@ -10,7 +10,7 @@
 
 <p align="center">
   
-  [![GitHub Release Date](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/releases)
+  [![GitHub Release Date]()](https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/releases)
   
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/"> 
      <img alt="GitHub followers" src="https://img.shields.io/github/followers/QuadDarv1ne?color=blue&label=Followers%20on%20GitHub&logoColor=blueviolet&style=social"/>
