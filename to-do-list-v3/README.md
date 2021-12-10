@@ -69,6 +69,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## 🎉 Building your first React Native app
+
+Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started). The recommended way to install React Native depends on your project. Here you can find short guides for the most common scenarios:
+
+- [Trying out React Native][hello-world]
+- [Creating a New Application][new-app]
+- [Adding React Native to an Existing Application][existing]
+
+[hello-world]: https://snack.expo.io/@hramos/hello,-world!
+[new-app]: https://reactnative.dev/docs/getting-started
+[existing]: https://reactnative.dev/docs/integration-with-existing-apps
+
+## 📖 Documentation
+
+The full documentation for React Native can be found on our [website][docs].
+
+The React Native documentation discusses components, APIs, and topics that are specific to React Native. For further documentation on the React API that is shared between React Native and React DOM, refer to the [React documentation][r-docs].
+
+The source for the React Native documentation and website is hosted on a separate repo, [**@facebook/react-native-website**][repo-website].
+
+[docs]: https://reactnative.dev/docs/getting-started
+[r-docs]: https://reactjs.org/docs/getting-started.html
+[repo-website]: https://github.com/facebook/react-native-website
 
 ### Social Media URL
 
