@@ -57,7 +57,8 @@
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/"> 
     <img src="https://img.shields.io/github/languages/top/silent-lad/VueSolitaire.svg">
   </a>
-      
+    
+    </p>
   </p>
 
     [<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?style=social">][youtube]
