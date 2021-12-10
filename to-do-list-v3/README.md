@@ -25,6 +25,9 @@
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/">
     <img src="https://img.shields.io/github/repo-size/QuadDarv1ne/ToDo_List" alt="GitHub repo size" />
   </a>
+  <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/QuadDarv1ne/ToDo_List" />
+  </a>
 </p>
   
 <img src="https://img.shields.io/npm/dy/to-do-list-v3">
