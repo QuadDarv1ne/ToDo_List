@@ -35,9 +35,11 @@
   <a href="https://twitter.com/intent/follow?screen_name=reactnative">
     <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @react-native" />
   </a>
+    
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/">
-    <img src="https://img.shields.io/github/repo-size/QuadDarv1ne/ToDo_List" alt="GitHub repo size" />
+    <img src="https://img.shields.io/github/repo-size/QuadDarv1ne/ToDo_List?logo=AngularJS&logoColor=blueviolet&style=social" alt="GitHub repo size" />
   </a>
+    
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/QuadDarv1ne/ToDo_List" />
   </a>
