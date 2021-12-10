@@ -1,14 +1,12 @@
 # ToDo_List | Основная папка всего проекта 
 
 <h1 align="center">
-  <a href="https://reactnative.dev/"> React Native </a>
+  <a href="https://reactnative.dev/"> React Native [<img alight="" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]  </a>
 </h1>
 
 <p align="center">
   <strong>Learn once, write anywhere:</strong><br> Build mobile apps with React.
-</p>
-
-[<img alight="" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]    
+</p>  
 
 <p align="center">
   
