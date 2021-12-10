@@ -18,8 +18,6 @@
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?color=blue&label=Subscribers%20%7C%20%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&style=social">
     <a/>
     
-    [<a><img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?style=social"><a/>][youtube]
-    
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/"> 
     <img alt="npms.io (final)" src="https://img.shields.io/npms-io/final-score/to-do-list?logo=React&logoColor=blueviolet&style=social">
   <a/>
@@ -61,7 +59,8 @@
   </a>
       
   </p>
- </p>
+
+    [<img alight="left" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCX9nGW7TMpMMYR9TND7JADA?style=social">][youtube]
     
 [<img alight="left" alt="Flaticon" width="70px" src="https://cdn-icons-png.flaticon.com/512/6133/6133432.png">][flaticon]
 [<img alight="" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]
