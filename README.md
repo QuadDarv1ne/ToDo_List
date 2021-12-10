@@ -10,7 +10,9 @@
 
 <p align="center">
   
+   <a>
   [<img alight="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][JavaScript]
+  <a/>
   
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/"> 
      <img alt="GitHub followers" src="https://img.shields.io/github/followers/QuadDarv1ne?color=blue&label=Followers%20on%20GitHub&logoColor=blueviolet&style=social"/>
