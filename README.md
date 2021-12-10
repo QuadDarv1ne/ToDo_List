@@ -1,13 +1,5 @@
 # ToDo_List | Основная папка всего проекта 
 
-
-
-
-
-
-
-
-
 <h1 align="center">
   <a href="https://reactnative.dev/"> React Native </a>
 </h1>
@@ -17,6 +9,8 @@
 </p>
 
 <p align="center">
+  
+  [![GitHub Release Date](https://img.shields.io/github/release-date-pre/xmrig/xmrig-amd.svg)](https://github.com/xmrig/xmrig-amd/releases)
   
   <a href="https://github.com/QuadDarv1ne/ToDo_List/edit/main/to-do-list-v3/"> 
      <img alt="GitHub followers" src="https://img.shields.io/github/followers/QuadDarv1ne?color=blue&label=Followers%20on%20GitHub&logoColor=blueviolet&style=social"/>
